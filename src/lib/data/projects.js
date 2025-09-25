@@ -9,8 +9,8 @@ export const projects = [
     category: "Todo",
     image: `${basePath}pomodoro-preview.jpg`,
     lastUpdated: "2 days ago",
-    url: "https://abderrahmaneBouzemlal.github.io/pomodoro-todo-app/",
-    github: "https://github.com/NahidReza08/dsi-abderrahmanebouzemlal/tree/main/svelte/pomodoro-todo-app",
+    url: "https://abderrahmanebouzemlal.github.io/pomodoro-timer-app/",
+    github: "https://github.com/AbderrahmaneBouzemlal/pomodoro-timer-app",
     tech: ["Svelte", "Tailwind CSS", "javascript", "vite"],
     featured: false
   },
@@ -32,8 +32,8 @@ export const projects = [
     description: "A sleek and modern blog post layout with a focus on readability, created using Tailwind CSS.",
     category: "blog",
     image: `${basePath}blog-preview.jpg`,
-    url: "https://abderrahmanebouzemlal.github.io/blog-post/",
-    github: "https://github.com/abderrahmaneBouzemlal/blog-post",
+    url: "https://abderrahmanebouzemlal.github.io/blog-card/",
+    github: "https://github.com/AbderrahmaneBouzemlal/blog-card/",
     tech: ["HTML", "Tailwind CSS", "JavaScript"],
     lastupadted: "3 weeks ago",
     featured: false
